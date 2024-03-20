@@ -1,0 +1,23 @@
+:root {
+  font-family: "Itim", cursive;
+  font-weight: 400;
+  font-style: normal;
+  height: 100%;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: white;
+  background-image: url("https://a.cdn-hotels.com/gdcs/production79/d567/927124e0-6bc6-4123-b007-e2b235afab1a.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 50px white inset !important;
+  -webkit-text-fill-color: black !important;
+  caret-color: black;
+}
